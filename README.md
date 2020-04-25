@@ -1,3 +1,5 @@
+I need to get my Api routes to correspond correctly as well as to get my react app working again, I added some new dependencies that crashed my app that was working so I need to fix that to get it working 
+
 # Create React Express App
 
 ## About This Boilerplate
